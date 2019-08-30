@@ -1,0 +1,929 @@
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainForm.resources
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe.config
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainForm.resources
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\WinForms\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.VideoEditor.exe.config
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainForm.resources
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+D:\Projects\BakedSoftware\Aktualka-20180307T042936Z-001\Aktualka\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainForm.resources
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainForm.resources
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+D:\Projects\BakedSoftware\VE\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+F:\Projekty\Programy\Video Editor Project\WinForms\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainForm.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainForm.resources
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainForm.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainform.resources
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+C:\Users\KonradGM\Desktop\VideoEditor - PUSSY WRECKAGE MODE 420 ULTRA (Export)\VideoEditor\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainform.resources
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+C:\Users\KonradGM\Desktop\VideoEditor - RainbowFGT Edition\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor\VideoEditor\obj\Debug\VideoEditor.CustomRangeSlider.resources
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.CustomRangeSlider.resources
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainform.resources
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor Dorobienie Kolorków\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.CustomRangeSlider.resources
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainform.resources
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\VideoEditor Mudzin\VideoEditor Mudzin\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojAssemblyReference.cache
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.CustomRangeSlider.resources
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainform.resources
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.cache
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CopyComplete
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+C:\Users\DONKEY MOBILE\Desktop\Projekty\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x64\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\x86\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ffmpeg.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe.config
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\MediaToolkit.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\NAudio.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\OpenTK.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ZedGraph.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Emgu.CV.World.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\NAudio.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\OpenTK.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ZedGraph.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.CustomRangeSlider.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.mainform.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.Menus.SubtitlesAddMenu.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Beta\VideoEditor\VideoEditor\obj\Debug\VideoEditor.SubtitlesMainMenu.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x64\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x64\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x64\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x64\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x86\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x86\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x86\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\x86\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\ffmpeg.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\VideoEditor.exe.config
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\Emgu.CV.World.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\MediaToolkit.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\NAudio.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\OpenTK.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\ZedGraph.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\Emgu.CV.World.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\NAudio.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\OpenTK.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\ZedGraph.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.CustomRangeSlider.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.mainform.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.Menus.SubtitlesAddMenu.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.SubtitlesMainMenu.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor Pro Beta\VideoEditor\obj\Debug\VideoEditor.pdb
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.CustomRangeSlider.resources
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.mainform.resources
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.Menus.SubtitlesAddMenu.resources
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.SubtitlesMainMenu.resources
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.pdb
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\concrt140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\cvextern.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\msvcp140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\vcruntime140.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\ffmpeg.exe
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\VideoEditor.exe.config
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\VideoEditor.exe
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\VideoEditor.pdb
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\Emgu.CV.World.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\MediaToolkit.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\NAudio.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\OpenTK.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\ZedGraph.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\Emgu.CV.World.xml
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\NAudio.xml
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\OpenTK.xml
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\ZedGraph.xml
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\Interop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KonradGM\Desktop\VideoEditor Almost Finished\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.CUSTOM.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\opencv_ffmpeg330_64.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x64\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\concrt140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\cvextern.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\msvcp140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\opencv_ffmpeg330.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\x86\vcruntime140.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\ffmpeg.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\VideoEditor.exe.config
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\VideoEditor.pdb
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\Emgu.CV.UI.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\Emgu.CV.World.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\MediaToolkit.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\NAudio.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\OpenTK.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\OpenTK.GLControl.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\ZedGraph.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\Emgu.CV.UI.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\Emgu.CV.World.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\NAudio.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\OpenTK.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\OpenTK.GLControl.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\ZedGraph.xml
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\de\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\es\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\it\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\bin\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.csprojResolveAssemblyReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\Interop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\AxInterop.WMPLib.dll
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.csproj.ResolveComReference.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.CustomRangeSlider.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.mainform.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.CUSTOM.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.menuProject.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.menuSpeed.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.SubtitlesMainMenu.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.Properties.Resources.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.Resource1.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.SettingsTheme.resources
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.csproj.GenerateResource.Cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.csproj.CoreCompileInputs.cache
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.exe
+F:\Projekty\Programy\Video Editor Project\VideoEditor Almost Finished - Custom Colors\VideoEditor Almost Finished\VideoEditor\obj\Debug\VideoEditor.pdb
